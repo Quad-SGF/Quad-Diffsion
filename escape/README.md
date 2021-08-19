@@ -1,4 +1,4 @@
-## One-Dimensional Model
+## Escaping rate of SGD, SGF0, SGF2
 
 We design a 1-dimensional model that has loss function
     
